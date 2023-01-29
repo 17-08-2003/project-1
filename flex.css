@@ -1,0 +1,17 @@
+.container-fluid{
+    background-color:#1E1E1E;
+    color: white;
+}
+.card-group{
+    padding: 34px;
+}
+body{
+    padding: 131px;
+}
+footer{
+    background-color: #1E1E1E;
+    color: white;
+    height: 239px;
+    display: flex;
+    justify-content: center;
+}
